@@ -1,1 +1,1 @@
-# designer-portfolio
+Учебный проект
